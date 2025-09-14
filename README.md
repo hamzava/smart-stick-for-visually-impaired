@@ -33,9 +33,9 @@ Key features include:
 ## ⚙️ Hardware Components
 - Arduino Nano (ATmega328)
 - Ultrasonic Sensor (HC-SR04)
-- GPS Module (e.g., NEO-6M)
-- GSM Module (e.g., SIM900/SIM800L)
+- GPS Module (NEO-6M)
+- GSM Module (SIM800L)
 - Push Button (for SOS trigger)
-- Power Supply (battery pack)
+- Power Supply ( Lithium Ion battery pack)
 
 ---
