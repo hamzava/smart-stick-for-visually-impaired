@@ -16,6 +16,12 @@ Key features include:
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch the demo video](https://img.youtube.com/vi/r47kOy3oFZc/0.jpg)](https://www.youtube.com/watch?v=r47kOy3oFZc)
+
+---
+
 ## 🛠️ Features
 - **Ultrasonic Obstacle Detection**: Detects nearby objects and alerts the user.
 - **SOS Button**: Sends an emergency message with GPS coordinates via GSM network.
